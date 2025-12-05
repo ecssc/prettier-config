@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.1-alpha.1](//compare/0.0.1-alpha.0...0.0.1-alpha.1) (2025-12-05)
+
+
+### chore
+
+* configure eslint and release it 81475ba75ed9b24c057b511ab83ae46229870949
+
 ## 0.0.1-alpha.0 (2025-12-05)
 
 
