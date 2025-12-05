@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](//compare/0.0.1...0.0.2) (2025-12-05)
+
+
+### chore
+
+* configure production dependecies d7b56c7754dd31cda94477aa3f69729f05f1de61
+
 ## [0.0.1](//compare/0.0.1-alpha.2...0.0.1) (2025-12-05)
 
 ## [0.0.1-alpha.2](//compare/0.0.1-alpha.1...0.0.1-alpha.2) (2025-12-05)
