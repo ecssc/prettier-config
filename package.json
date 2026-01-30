@@ -1,6 +1,6 @@
 {
   "name": "@ecssc/prettier-config",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Shared Prettier config for ECSSC projects",
   "type": "module",
   "exports": "./src/index.mjs",

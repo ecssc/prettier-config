@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.0](///compare/0.0.2...0.1.0) (2026-01-30)
+
+### Features
+
+* migrate prettier plugin to v0.6 0344185
+
 ## [0.0.2](//compare/0.0.1...0.0.2) (2025-12-05)
 
 
