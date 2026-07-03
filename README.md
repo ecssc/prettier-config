@@ -1,6 +1,6 @@
 # @ecssc/prettier-config
 
-Shared Prettier configuration for ECSSC projects.
+Shared Prettier configuration for ECSSC projects. Requires Prettier 3+.
 
 ## Installation
 
