@@ -1,6 +1,6 @@
 {
   "name": "@ecssc/prettier-config",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Shared Prettier config for ECSSC projects",
   "license": "MIT",
   "author": "Edward Coleridge Smith <edcoleridgesmith@gmail.com>",

@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.3](https://github.com/ecssc/prettier-config/compare/0.1.2...0.1.3) (2026-07-03)
+
+### Bug Fixes
+
+* patch vulnerable dependencies ([#1](https://github.com/ecssc/prettier-config/issues/1)) ([6031089](https://github.com/ecssc/prettier-config/commit/60310892af81ad94b865d6326fa3e4bd8e2c9910))
+
 ## [0.1.2](///compare/0.1.1...0.1.2) (2026-02-03)
 
 ## [0.1.1](///compare/0.1.0...0.1.1) (2026-02-03)
