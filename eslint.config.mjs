@@ -1,5 +1,5 @@
-import { defineConfig } from 'eslint/config'
 import { ecsscConfigDefault } from '@ecssc/eslint-config'
+import { defineConfig } from 'eslint/config'
 
 export default defineConfig(
   ecsscConfigDefault,
